@@ -1,18 +1,18 @@
 # site properties and page defaults
 title: Munschauer Lab
 subtitle: 
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
+description: The Munschauer Lab is an interdisciplinary team of biochemists, virologists and computational biologists with a passion for unlocking the secrets of pathogenic RNA viruses.
 header: "images/mlab_header300dpi.png"
 footer: "images/mlab_footer300dpi.png"
 
 # site social media and other links
 links:
-  email: contact@your-lab.com
+  # email: contact@your-lab.com
   orcid: 0000-0001-6143-4548
-  google-scholar: ETJoidYAAAAJ
-  github: your-lab
-  twitter: YourLabHandle
-  youtube: YourLabChannel
+  google-scholar: ihWlvwwAAAAJ&hl=en
+  github: Munschauerlab
+  twitter: m_munschauer
+  # youtube: YourLabChannel
 
 ### jekyll settings
 
