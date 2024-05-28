@@ -40,7 +40,7 @@
   link: https://doi.org/gstdzg
   orcid: 0000-0001-6143-4548
   plugin: sources.py
-  file: sources_bu052024.yaml
+  file: sources.yaml
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0092867423009807-gr1.jpg
 - id: doi:10.1182/blood.2021013753
   title: Congenital anemia reveals distinct targeting mechanisms for master transcription
@@ -83,7 +83,7 @@
   link: https://doi.org/gr7bqf
   orcid: 0000-0001-6143-4548
   plugin: sources.py
-  file: sources_bu052024.yaml
+  file: sources.yaml
   image: https://ash.silverchair-cdn.com/ash/content_public/journal/blood/139/16/10.1182_blood.2021013753/6/m_bloodbld2021013753absf1.jpeg?Expires=1719508610&Signature=eInMaqI-949LEbnSIfmEyC4nni8MavujCf81TWMBy~a23zZJy13CDsGRqhkGP18Vx3mkOK0RjJtwQ~Phj6Q0Ydy1k9cf9oB7Zt3OUVQv4v0h8Z1khv3EO2Jja~cIMgk7RIsKKeime4Hx5L-NbTh9AvfWBC1gZ~-ZnQOGApMzfqrlgXQpr2ZPDKgr1WtiKwtG6NGkkOSnLo1XPI729Hw4ELPKXM1VgXVzINulbM3m0FFQu7B2oFRwj7TaHZ15rPLAE4STrvrk5mY28BhCAxA12VkACPAXv52nIBk9DferEWRVP~xzmcEceBTAiAPd11tYhEPSvXLV3Dg9CtSSO2IyTQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 - id: doi:10.1128/mbio.02683-20
   title: "The Zinc Finger Antiviral Protein ZAP Restricts Human Cytomegalovirus and\
@@ -110,7 +110,7 @@
   link: https://doi.org/gtf8m5
   orcid: 0000-0001-6143-4548
   plugin: sources.py
-  file: sources_bu052024.yaml
+  file: sources.yaml
   image: https://journals.asm.org/cms/10.1128/mbio.02683-20/asset/f84fb60e-dcdb-4fed-ab25-11161e6e1082/assets/images/medium/mbio.02683-20-f007.gif
 - id: doi:10.1038/s41564-020-00846-z
   title: "The SARS-CoV-2 RNA\u2013protein interactome in infected human cells"
@@ -141,7 +141,7 @@
   link: https://doi.org/gjt6c2
   orcid: 0000-0001-6143-4548
   plugin: sources.py
-  file: sources_bu052024.yaml
+  file: sources.yaml
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41564-020-00846-z/MediaObjects/41564_2020_846_Fig1_HTML.png?as=webp
 - id: doi:10.1038/s41467-020-17007-9
   title: The lncRNA lincNMR regulates nucleotide metabolism via a YBX1 - RRM2 axis
@@ -164,7 +164,7 @@
   link: https://doi.org/gmq8kz
   orcid: 0000-0001-6143-4548
   plugin: sources.py
-  file: sources_bu052024.yaml
+  file: sources.yaml
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-020-17007-9/MediaObjects/41467_2020_17007_Fig7_HTML.png?as=webp
 - id: doi:10.1038/s41588-019-0568-7
   title: Control of human hemoglobin switching by LIN28B-mediated regulation of BCL11A
@@ -196,7 +196,7 @@
   link: https://doi.org/gr7b6h
   orcid: 0000-0001-6143-4548
   plugin: sources.py
-  file: sources_bu052024.yaml
+  file: sources.yaml
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-019-0568-7/MediaObjects/41588_2019_568_Fig1_HTML.png?
 - id: doi:10.1101/gad.330134.119
   title: Context-specific regulation of cell survival by a miRNA-controlled BIM rheostat
@@ -225,7 +225,7 @@
   link: https://doi.org/ggsc6k
   orcid: 0000-0001-6143-4548
   plugin: sources.py
-  file: sources_bu052024.yaml
+  file: sources.yaml
   image: https://genesdev.cshlp.org/content/33/23-24/1673/F1.small.gif
 - id: doi:10.7554/eLife.39054
   title: New insights into the cellular temporal response to proteostatic stress
@@ -250,7 +250,7 @@
   link: https://doi.org/ggjxrw
   orcid: 0000-0001-6143-4548
   plugin: sources.py
-  file: sources_bu052024.yaml
+  file: sources.yaml
   image: https://iiif.elifesciences.org/lax/39054%2Felife-39054-fig1-v2.tif/full/1234,/0/default.webp
 - id: doi:10.1038/s41586-018-0453-z
   title: The NORAD lncRNA assembles a topoisomerase complex critical for genome stability
@@ -274,7 +274,7 @@
   link: https://doi.org/gd3w76
   orcid: 0000-0001-6143-4548
   plugin: sources.py
-  file: sources_bu052024.yaml
+  file: sources.yaml
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41586-018-0453-z/MediaObjects/41586_2018_453_Fig1_HTML.png?as=webp
 - id: doi:10.15252/embj.201899875
   title: "Nuclear lnc\n            <scp>RNA</scp>\n            stabilization in the\
@@ -287,7 +287,7 @@
   link: https://doi.org/gtf8m7
   orcid: 0000-0001-6143-4548
   plugin: sources.py
-  file: sources_bu052024.yaml
+  file: sources.yaml
   image: https://www.embopress.org/cms/10.15252/embj.201899875/asset/564a4642-192e-4c95-be50-5b2ef209bf4a/assets/graphic/embj201899875-fig-0001-m.png
 - id: doi:10.1101/308379
   title: Quantifying multi-layered expression regulation in response to stress of
@@ -313,7 +313,7 @@
   link: https://doi.org/gktpdh
   orcid: 0000-0001-6143-4548
   plugin: sources.py
-  file: sources_bu052024.yaml
+  file: sources.yaml
   image: https://www.biorxiv.org/content/biorxiv/early/2018/04/25/308379/F1.medium.gif
 - id: doi:10.1016/j.cell.2018.02.036
   title: Ribosome Levels Selectively Regulate Translation and Lineage Commitment in
@@ -351,7 +351,7 @@
   link: https://doi.org/gc5sd8
   orcid: 0000-0001-6143-4548
   plugin: sources.py
-  file: sources_bu052024.yaml
+  file: sources.yaml
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0092867418302137-fx1.jpg
 - id: doi:10.1002/ajh.24805
   title: "Developmentally\u2010faithful and effective human erythropoiesis in immunodeficient\
@@ -369,7 +369,7 @@
   link: https://doi.org/gbr7xg
   orcid: 0000-0001-6143-4548
   plugin: sources.py
-  file: sources_bu052024.yaml
+  file: sources.yaml
   image: https://onlinelibrary.wiley.com/cms/asset/7b113ccc-ed6a-4bb4-a281-68ed6ae39e32/ajh24805-fig-0003-m.jpg
 - id: doi:10.1126/science.aag2445
   title: "Systematic mapping of functional enhancer\u2013promoter connections with\
@@ -390,7 +390,7 @@
   link: https://doi.org/f9bttw
   orcid: 0000-0001-6143-4548
   plugin: sources.py
-  file: sources_bu052024.yaml
+  file: sources.yaml
   image: https://www.science.org/cms/10.1126/science.aag2445/asset/98a3aed3-fa76-4f94-adc5-ab0ac0e2b2a6/assets/graphic/354_769_f1.jpeg
 - id: doi:10.3390/biom5031441
   title: 'Comprehensive Protein Interactome Analysis of a Key RNA Helicase: Detection
@@ -408,7 +408,7 @@
   link: https://doi.org/f7tpj5
   orcid: 0000-0001-6143-4548
   plugin: sources.py
-  file: sources_bu052024.yaml
+  file: sources.yaml
   image: https://www.mdpi.com/biomolecules/biomolecules-05-01441/article_deploy/html/images/biomolecules-05-01441-g001-1024.png
 - id: doi:10.1016/j.molcel.2014.03.017
   title: "MOV10 Is a 5\u2032 to 3\u2032 RNA Helicase Contributing to UPF1 mRNA Target\
@@ -427,7 +427,7 @@
   link: https://doi.org/f539kd
   orcid: 0000-0001-6143-4548
   plugin: sources.py
-  file: sources_bu052024.yaml
+  file: sources.yaml
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1097276514002226-fx1.jpg
 - id: doi:10.1186/gb-2014-15-1-r15
   title: Differential protein occupancy profiling of the mRNA transcriptome
@@ -445,7 +445,7 @@
   link: https://doi.org/gbfs4k
   orcid: 0000-0001-6143-4548
   plugin: sources.py
-  file: sources_bu052024.yaml
+  file: sources.yaml
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fgb-2014-15-1-r15/MediaObjects/13059_2013_Article_3339_Fig1_HTML.jpg?as=webp
 - id: doi:10.1016/j.ymeth.2013.09.017
   title: High-resolution profiling of protein occupancy on polyadenylated RNA transcripts
@@ -459,7 +459,7 @@
   link: https://doi.org/f5vfdm
   orcid: 0000-0001-6143-4548
   plugin: sources.py
-  file: sources_bu052024.yaml
+  file: sources.yaml
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1046202313003861-gr6.jpg
 - id: doi:10.4161/rna.25194
   title: Identification of LIN28B-bound mRNAs reveals features of target recognition
@@ -478,7 +478,7 @@
   link: https://doi.org/gtf8m8
   orcid: 0000-0001-6143-4548
   plugin: sources.py
-  file: sources_bu052024.yaml
+  file: sources.yaml
   image: https://www.tandfonline.com/cms/asset/7941ae6b-5624-4424-8d23-39d766086cf4/krnb_a_10925194_f0002.gif
 - id: doi:10.1038/nature11928
   title: Circular RNAs are a large class of animal RNAs with regulatory potency
@@ -504,7 +504,7 @@
   link: https://doi.org/f4qxr3
   orcid: 0000-0001-6143-4548
   plugin: sources.py
-  file: sources_bu052024.yaml
+  file: sources.yaml
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnature11928/MediaObjects/41586_2013_Article_BFnature11928_Fig1_HTML.jpg?as=webp
 - id: doi:10.1038/nature11737
   title: FMRP targets distinct mRNA sequence elements to regulate protein expression
@@ -527,7 +527,7 @@
   link: https://doi.org/f4f9x2
   orcid: 0000-0001-6143-4548
   plugin: sources.py
-  file: sources_bu052024.yaml
+  file: sources.yaml
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnature11737/MediaObjects/41586_2012_Article_BFnature11737_Fig4_HTML.jpg?as=webp
 - id: doi:10.1016/j.molcel.2012.05.021
   title: The mRNA-Bound Proteome and Its Global Occupancy Profile on Protein-Coding
@@ -553,7 +553,7 @@
   link: https://doi.org/f32g66
   orcid: 0000-0001-6143-4548
   plugin: sources.py
-  file: sources_bu052024.yaml
+  file: sources.yaml
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1097276512004376-fx1.jpg
 - id: doi:10.3791/2034
   title: PAR-CliP - A Method to Identify Transcriptome-wide the Binding Sites of RNA
@@ -579,7 +579,7 @@
   link: https://doi.org/b2sds2
   orcid: 0000-0001-6143-4548
   plugin: sources.py
-  file: sources_bu052024.yaml
+  file: sources.yaml
   image: https://cloudfront.jove.com/files/ftp_upload/2034/2034fig1.jpg
 - id: doi:10.1016/j.cell.2010.03.009
   title: Transcriptome-wide Identification of RNA-Binding Protein and MicroRNA Target
@@ -605,7 +605,7 @@
   link: https://doi.org/ff29nb
   orcid: 0000-0001-6143-4548
   plugin: sources.py
-  file: sources_bu052024.yaml
+  file: sources.yaml
   image: https://ars.els-cdn.com/content/image/1-s2.0-S009286741000245X-fx1_lrg.jpg
 - id: doi:10.1093/nar/gkae038
   title: SHIFTR enables the unbiased identification of proteins bound to specific
@@ -624,5 +624,5 @@
   date: '2024-01-28'
   link: https://doi.org/gthwxz
   plugin: sources.py
-  file: sources_bu052024.yaml
+  file: sources.yaml
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/nar/52/5/10.1093_nar_gkae038/2/m_gkae038figgra1.jpeg?Expires=1719099359&Signature=q90EE290nE85QmWVE4qKrAvajLKPsIpG7F4rttZUDLLo9zoCX9TXhmcdNu2AbyZlf2THiOt8llcT-6RyfqHSmCVGNotARxraCnXuBYUcXb43rtStr22hEh6pCi8N5gxgzBkpqRnxT~ZZI48wE1fpTr4ciweVAZFpKo-QDOo09K-AB9FwIrO49D7fffF8Q0W124utlxdj-Dvq-dvpww5M1HD3A~KjlAwtFEO-37B6QhIUgFxAnLgDMx0yJOsJ1qFQhL8PCQ0Ul7zi317HCaMBLvcYdMOEOXEl~jFtn3E6bW0oX~aXx~a52n6zIdU7FrfjnP3zc-Po6i7Tq8FROGxntQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
