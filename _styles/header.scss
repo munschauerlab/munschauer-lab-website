@@ -46,7 +46,7 @@ header a {
   height: 100%;
 }
 
-.title-text {
+.title {
   display: flex;
   justify-content: flex-start;
   align-items: baseline;
@@ -54,16 +54,23 @@ header a {
   gap: 5px;
   min-width: 0;
   font-family: var(--title);
-  text-align: left;
+  text-align: left;  
 }
 
-.title {
-  font-size: var(--large);
+// main title
+.title > *:first-child {
+  font-size: var(--lab-head);
+  font-weight: 1000;
+  opacity: 1.0;
 }
 
-.subtitle {
-  opacity: 0.65;
-  font-weight: var(--thin);
+// subtitle
+.title > *:last-child {
+  opacity: 1.0;
+  //font-weight: var(--thin);
+  font-size: var(--lab-head);
+  font-weight: 1000;
+  color: #006290;
 }
 
 .nav-toggle {
@@ -73,8 +80,9 @@ header a {
   height: 30px;
   margin: 0;
   color: var(--text);
+  -webkit-appearance: none;
   appearance: none;
-  transition: background var(--transition);
+  transition-property: background;
 }
 
 .nav-toggle:after {
@@ -105,6 +113,7 @@ nav {
 
 nav > a {
   padding: 5px;
+  font-size: var(--large);
 }
 
 nav > a:hover {
@@ -150,17 +159,20 @@ header[data-big] {
     height: $logo-big;
   }
 
-  .title-text {
+  .title {
     flex-direction: column;
     align-items: center;
     text-align: center;
+    color: #006290;
   }
 
-  .title {
+  .title > *:first-child {
     font-size: var(--xxl);
   }
 
-  .subtitle {
-    font-size: var(--large);
+  .title > *:last-child {
+    font-size: var(--lab-head);
+    font-weight: 1000;
+    opacity: 1.0;
   }
 }
