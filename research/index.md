@@ -14,7 +14,7 @@ We take an innovative RNA-centric approach that combines RNA interactomics techn
 {%
   include figure.html
   image="images/mlab_research.png"
-  caption="The research foci of the Munschauer lab Graphical abstract © Helmholtz Institute Würzburg / Sandy Westermann"
+  caption="The research foci of the Munschauer lab Graphical abstract ©Sandy Westermann"
   link = "images/mlab_research.png"
   width="800px"
 %}
