@@ -14,7 +14,7 @@ We take an innovative RNA-centric approach that combines RNA interactomics techn
 {%
   include figure.html
   image="images/mlab_research.png"
-  caption="The research foci of the Munschauer lab Graphical abstract ©Sandy Westermann"
+  caption="Graphical summary of the lab's research program ©Sandy Westermann"
   link = "images/mlab_research.png"
   width="800px"
 %}
@@ -22,7 +22,7 @@ We take an innovative RNA-centric approach that combines RNA interactomics techn
 
 <!-- ![](https://www.youtube.com/embed/c57mRJEIfWc) -->
 
-## Insights 
+## Highlights
 
 How SARS-CoV-2 initiates its replication process during infection is not yet fully understood. [In a recent publication in the journal Cell](https://doi.org/gstdzg), we show that it is the human protein SND1 which works together with the viral protein NSP9 to stimulate the virus’s genetic replication program in infected cells.
 
