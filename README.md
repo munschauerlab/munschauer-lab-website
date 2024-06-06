@@ -1,4 +1,4 @@
-Visit **[munschauerlab.github.io/munschauer-lab-website](https://munschauerlab.github.io/munschauer-lab-website)** 🚀
+Visit **[munschauer-lab.de](http://munschauer-lab.de)** 🚀
 
 <h1 align="center">Lab Website Template</h1>
 <p align="center">
