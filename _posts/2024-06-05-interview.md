@@ -1,0 +1,7 @@
+---
+title: Im Sog der RNA
+last_modified_at: ""
+external_link: https://www.helmholtz.de/newsroom/artikel/im-sog-der-rna/
+---
+
+A big thank you to Helmholtz.de and Kilian Kirchgeßner for a fun interview and a very well crafted profile. If you're curious about the scientific journey of our PI, you can check it out here ->
