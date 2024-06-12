@@ -5,7 +5,7 @@ nav:
   tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-book" %}Publictions
+# {% include icon.html icon="fa-solid fa-book" %}Publications
 
 <!-- ## All -->
 
