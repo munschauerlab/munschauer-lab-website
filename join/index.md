@@ -9,7 +9,7 @@ nav:
 
 We always welcome talented scientists who share our fervor for RNA research, virology, and computational biology to become part of our dynamic team. Don’t hesitate to reach out!
 
-We are currently seeking a **lab manager** & **technician** to help build the new site in Frankfurt, while the lab in Würzburg is continuing to run at full speed.
+We are currently looking for a talented **PhD student** to work on an **ERC-funded project** at the interface of **virology** and **computational biology** to join our new site in Frankfurt am Main, Germany. Details will soon be available below.
 
 ## Job openings:
 

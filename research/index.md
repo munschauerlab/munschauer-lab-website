@@ -24,14 +24,14 @@ We take an innovative RNA-centric approach that combines RNA interactomics techn
 
 ## Highlights
 
-How SARS-CoV-2 initiates its replication process during infection is not yet fully understood. [In a recent publication in the journal Cell](https://doi.org/gstdzg), we show that it is the human protein SND1 which works together with the viral protein NSP9 to stimulate the virus’s genetic replication program in infected cells.
+How SARS-CoV-2 initiates the transcription and replication of its RNA genome is not fully understood. [In a recent publication in the journal Cell](https://doi.org/gstdzg), we show that the viral protein NSP9 primes the synthesis of both positive and negative-sense SARS-CoV-2 RNA. Unexpectedly, the host RNA-binding protein SND1 regulates this newly discovered protein-priming mechanism. For additional details, check out our video primer below.
 
 <iframe width="632" height="356" src="https://www.youtube.com/embed/c57mRJEIfWc" title="Unexpected findings on SARS-CoV-2 replication" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
 
 
 ## Funding
 
-Research in our lab is generously supported by the following sources:
+Research in our lab is generously supported by the following sources and programs:
 
 {% capture col1 %}
 {%
