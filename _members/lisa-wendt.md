@@ -1,7 +1,7 @@
 ---
 name: Lisa Wendt
 image: images/members/Wendt_Lisa.jpg
-role: phd
+role: postdoc
 aliases:
   - L. Wendt
   - L Wendt
