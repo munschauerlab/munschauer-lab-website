@@ -12,9 +12,16 @@ Our research group investigates host and pathogen RNA-protein interactions in an
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
+{% include section.html %}
+
 {% include list.html data="members" component="portrait" filters="role: postdoc" %}
+
+{% include section.html %}
+
 {% include list.html data="members" component="portrait" filters="role: phd" %}
+
 {% include list.html data="members" component="portrait" filters="role: ta" %}
+
 <!-- {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %} -->
 
 
