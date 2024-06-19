@@ -1,1 +1,1 @@
-Sitemap: https://munschauerlab.github.io/munschauer-lab-website/sitemap.xml
+Sitemap: https://www.munschauerlab.de/sitemap.xml
