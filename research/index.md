@@ -113,6 +113,16 @@ Research in our lab is generously supported by the following sources and program
 %}
 {% endcapture %}
 
+{% capture col9 %}
+{%
+  include figure.html
+  image="images/logos/IZKF.jpeg"
+  caption=""
+  link = "images/logos/IZKF.jpeg"
+  width="300px"
+%}
+{% endcapture %}
+
 {%
   include cols.html
   col1=col1
@@ -131,4 +141,5 @@ Research in our lab is generously supported by the following sources and program
   include cols.html
   col1=col7
   col2=col8
+  col3=col9
 %}
