@@ -31,6 +31,7 @@ How SARS-CoV-2 initiates the transcription and replication of its RNA genome is 
 ## Current Focus Areas
 
 **RNA Interactomics: A New Perspective on RNA Viruses**
+
 The systematic analysis of RNA interactomes can uncover molecular signatures that detail the functional and regulatory dependencies of specific RNA molecules. Our lab examines these interaction signatures for different RNA viruses and their RNA products at various stages of the infection cycle to gain insights into the viral RNA replication program and its dependence on specific virus and host factors.
 
 We are pioneering a new generation of RNA-centric tools that provide unprecedented insights into the molecular interactions between viruses and their hosts. One such tool, [SHIFTR](https://doi.org/10.1093/nar/gkae038), promises to revolutionize our understanding of viral RNA genomes, their design principles, and molecular building blocks. SHIFTR allows us to analyze interactions for any cis-regulatory element encoded by any virus, in its native state, and throughout the infection cycle. In doing so, we are unraveling the molecular blueprint that dictates the molecular workings of an RNA virus
@@ -46,6 +47,7 @@ We are pioneering a new generation of RNA-centric tools that provide unprecedent
 Current projects in this area aim at developing technologies to assess RNA-protein interactions and their functional consequences at the single-cell and single-molecule level.
 
 **CRISPR meets Single Cells: From Interaction to Function**
+
 Complementing the area of RNA interactomics, we combine pooled CRISPR screens with single-cell transcriptomics (aka Perturb-seq) to systematically determine the impact of a large number of host factors on the gene expression patterns of both virus and host. Leveraging AI and machine learning, these single-cell readouts help identify pathways and programs relevant to viral infections and devise strategies to interfere with viral replication. Beyond single-cell sequencing, we employ advanced imaging techniques to obtain high-resolution views of cellular perturbations, crucial for defining infection outcomes in live cells.
 
 {%
@@ -53,10 +55,11 @@ Complementing the area of RNA interactomics, we combine pooled CRISPR screens wi
   image="images/mlab_res_Fig2.png"
   caption="Perturb-seq: targeting RNA-modifying enzymes during Influenza A Virus (IAV) infection"
   link = "images/mlab_res_Fig2.png"
-  width="800px"
+  width="600px"
 %}
 
 **Molecular Mechanisms: a Path to New Antivirals**
+
 Our ultimate goal is to characterize the molecular mechanisms underlying (i) the successful execution of viral replication programs in human cells and (ii) the ability of a host cell to restrict viral pathogens. Using our unique RNA-centric approach, we profile interactions at unprecedented resolution and resolve functional consequences for each viral RNA type generated during infection. This high-resolution view allows us to distinguish between functionally diverse RNA populations, such as new and old RNA, incoming and replicated viral genomes, and positive and negative-strand viral RNA. This approach has uncovered fundamental aspects of viral RNA biology, including a previously overlooked protein-priming mechanism utilized by SARS-CoV-2, which is unexpectedly regulated by a host-encoded RNA-binding protein [Read more in Cell](https://doi.org/gstdzg).
 
 {%
@@ -64,10 +67,11 @@ Our ultimate goal is to characterize the molecular mechanisms underlying (i) the
   image="images/mlab_res_Fig3.png"
   caption="Effect of SND1 on NSP9-mediated priming of viral RNA synthesis"
   link = "images/mlab_res_Fig3.png"
-  width="800px"
+  width="600px"
 %}
 
 **RNA Therapeutics and the Innate Immune System**
+
 RNA-based therapeutics hold tremendous potential to revolutionize the treatment of human diseases, including infectious diseases. Our lab has established a technology unit dedicated to the design, synthesis, and purification of therapeutic mRNAs and the formulation of mRNA delivery vehicles, such as lipid nanoparticles. To enhance the design and biological activity of future RNA-based therapeutics, we investigate how therapeutic RNAs interact with various factors within target cells. We focus particularly on understanding the features of therapeutic RNAs that determine their stability and translational activity, as well as their interaction with the innate immune system. In this context, we are uniquely positioned to explore how the presence or absence of base modifications in therapeutic RNAs impacts their interaction profiles and influences the activation of innate immune pathways.
 
 
