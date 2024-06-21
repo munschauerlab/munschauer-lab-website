@@ -1,5 +1,5 @@
 .tippy-box {
-  background: var(--background);
+  background: white;
   color: var(--text);
   padding: 7.5px;
   text-align: left;
@@ -14,7 +14,7 @@
 .tippy-arrow:before {
   width: 10px;
   height: 10px;
-  background: var(--background);
+  background: white;
   box-shadow: var(--shadow);
 }
 
