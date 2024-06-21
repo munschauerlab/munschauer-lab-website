@@ -15,6 +15,15 @@ Theodor-Stern-Kai 7 <br />
 60590 Frankfurt am Main, Germany
 
 {%
+  include button.html
+  type="email"
+  link="mathias.munschauer@ukffm.de"
+  icon="fa-solid fa-envelope"
+  text="Email Mathias"
+  tooltip="Email"
+%}
+
+{%
   include figure.html
   image = "images/institute.png"
   caption = ""
