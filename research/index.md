@@ -116,6 +116,16 @@ Research in our lab is generously supported by the following sources and program
 {% capture col9 %}
 {%
   include figure.html
+  image="images/logos/Helmholtz_AI.png"
+  caption=""
+  link = "images/logos/Helmholtz_AI.png"
+  width="300px"
+%}
+{% endcapture %}
+
+{% capture col10 %}
+{%
+  include figure.html
   image="images/logos/IZKF.jpeg"
   caption=""
   link = "images/logos/IZKF.jpeg"
@@ -143,3 +153,9 @@ Research in our lab is generously supported by the following sources and program
   col2=col8
   col3=col9
 %}
+
+{%
+  include cols.html
+  col1=col10
+%}
+
