@@ -20,7 +20,7 @@ Our lab focuses on human pathogenic RNA viruses and carries out an innovative re
   width="800px"
 %}
 
-Harnessing cutting-edge technologies developed in our lab, such as [RAP-MS](https://doi.org/10.1038/s41564-020-00846-z) and [SHIFTR](https://doi.org/10.1093/nar/gkae038), we uncover interaction signatures that detail the functional and regulatory dependencies of any viral RNA molecule. By examining these interaction signatures across various RNA viruses and throughout their infection cycle, we gain critical insights into the viral RNA replication program and its reliance on specific viral and host factors.
+Utilizing breakthrough technologies developed in our lab, such as [RAP-MS](https://doi.org/10.1038/s41564-020-00846-z) and [SHIFTR](https://doi.org/10.1093/nar/gkae038), we uncover interaction signatures that detail the functional and regulatory dependencies of any viral RNA of interest. By examining these interaction signatures across various RNA viruses and throughout their infection cycle, we gain critical insights into the viral RNA replication program and its reliance on specific viral and host factors.
 
 Complementing the area of RNA interactomics we leverage advanced functional inference strategies, combining single-cell transcriptomics and live cell imaging techniques with pooled CRISPR screening. By integrating AI and machine learning, these single-cell readouts help us identify pathways and programs relevant to viral infections and devise innovative strategies to interfere with viral replication.
 
