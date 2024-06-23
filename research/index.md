@@ -7,17 +7,22 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-flask-vial" %}Research
 
-Viruses are a burden to human health. Identifying host cell factors that bind and regulate viral RNA during the infection process is important for understanding how viruses can take over a host cell, subvert host processes and evade innate immune defense mechanisms. Insights into the underlying molecular interactions and mechanisms contribute towards the development of the next generation of rationally designed antivirals. 
+Viruses pose a significant threat to human health. Identifying host cell factors that bind and regulate viral RNA during the infection process is important for understanding how viruses can take over a host cell, subvert host processes and evade innate immune defense mechanisms. Insights into the underlying molecular interactions and mechanisms form the basis for the development of the next generation of rationally designed antivirals.
 
-We take an innovative RNA-centric approach that combines RNA interactomics techniques (e.g. [RAP-MS](https://doi.org/10.1038/s41564-020-00846-z), [SHIFTR](https://doi.org/10.1093/nar/gkae038)) with functional inference strategies (e.g. Perturb-seq) to identify and characterize novel pro- or antiviral mechanisms. Through the discovery and characterization of such mechanisms we hope to contribute to the development of the next generation of antivirals.
+Our lab focuses on human pathogenic RNA viruses and carries out an innovative research program that is uniquely designed to revolutionize our understanding of viral RNA, its regulation, and function throughout the infection cycle.
+
 
 {%
   include figure.html
   image="images/mlab_research.png"
   caption="Graphical summary of the lab's research program ©Sandy Westermann"
   link = "images/mlab_research.png"
-  width="900px"
+  width="800px"
 %}
+
+Harnessing cutting-edge technologies developed in our lab, such as [RAP-MS](https://doi.org/10.1038/s41564-020-00846-z) and [SHIFTR](https://doi.org/10.1093/nar/gkae038), we uncover interaction signatures that detail the functional and regulatory dependencies of any viral RNA molecule. By examining these interaction signatures across various RNA viruses and throughout their infection cycle, we gain critical insights into the viral RNA replication program and its reliance on specific viral and host factors.
+
+Complementing the area of RNA interactomics we leverage advanced functional inference strategies, combining single-cell transcriptomics and live cell imaging techniques with pooled CRISPR screening. By integrating AI and machine learning, these single-cell readouts help us identify pathways and programs relevant to viral infections and devise innovative strategies to interfere with viral replication.
 
 
 <!-- ![](https://www.youtube.com/embed/c57mRJEIfWc) -->
