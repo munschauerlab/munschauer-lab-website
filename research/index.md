@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-flask-vial" %}Research
 
-Viruses pose a significant threat to human health. Identifying host cell factors that bind and regulate viral RNA during infection is important for understanding how viruses can take over a host cell, subvert host processes and evade innate immune defense mechanisms. Insights into the underlying molecular interactions and mechanisms form the basis for the development of the next generation of rationally designed antivirals.
+Viruses pose a significant threat to human health. Identifying host cell factors that bind and regulate viral RNA during infection is important for understanding how viruses can take over a host cell, subvert host processes and evade innate immune defense mechanisms. Insights into the underlying molecular interactions and mechanisms form the basis for developing the next generation of rationally designed antivirals.
 
 Our lab focuses on human pathogenic RNA viruses and carries out an innovative research program that is primed to transform our understanding of viral RNA, its regulation, and function throughout the infection cycle.
 
