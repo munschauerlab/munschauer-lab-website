@@ -9,7 +9,7 @@ nav:
 
 We always welcome talented scientists who share our fervor for RNA research, virology, and computational biology to become part of our dynamic team. Don’t hesitate to reach out!
 
-We are currently looking for a talented **PhD student** to work on an **ERC-funded project** at the interface of **virology** and **computational biology** to join our new site in Frankfurt am Main, Germany. Details will soon be available below.
+We are currently looking for a talented **PhD student** to work on an **ERC-funded project** at the interface of **virology** and **RNA biology** to join our team. 
 
 ## Job openings:
 
