@@ -17,7 +17,7 @@ Theodor-Stern-Kai 7 <br />
 {%
   include button.html
   type="email"
-  link="mathias.munschauer@ukffm.de"
+  link="mathias.munschauer@med.uni-frankfurt.de"
   icon="fa-solid fa-envelope"
   text="Email Mathias"
   tooltip="Email"
