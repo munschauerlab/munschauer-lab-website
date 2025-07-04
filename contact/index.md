@@ -30,3 +30,9 @@ Im Neuenheimer Feld 344, 1st Floor <br />
   link = "images/institute.jpg"
   width = "1000px"
 %}
+
+{%
+  include figure.html
+  image="images/HD.png"
+  width="1000px"
+%}
