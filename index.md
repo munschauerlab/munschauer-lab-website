@@ -17,6 +17,6 @@ We are an interdisciplinary team of virologists, biochemists and computational b
 
 {%
   include figure.html
-  image="HD.png"
+  image="images/HD.png"
   width="1000px"
 %}
