@@ -9,7 +9,7 @@ nav:
 
 We always welcome talented scientists who share our fervor for RNA research, virology, and computational biology to become part of our dynamic team. Don’t hesitate to reach out!
 
-We are currently looking for a talented **PhD student** to work on an **ERC-funded** research project at the interface of **virology** and **RNA biology** to join our team. 
+We will soon be recruiting talented **Postdocs** and **PhD students** to work on **ERC-funded** research projects at the interface of **Virology** **Computational Biology** and **Advanced Imaging Techniques** to join our team. 
 
 ## Job openings:
 

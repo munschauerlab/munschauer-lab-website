@@ -9,15 +9,15 @@ nav:
 
 ## Lab address
 
-Institute of Medical Virology, University Hospital Frankfurt <br />
-Building 75, Room 01.206 <br />
-Theodor-Stern-Kai 7 <br />
-60590 Frankfurt am Main, Germany
+Centre for Integrative Infectious Disease Research (CIID) <br />
+Im Neuenheimer Feld 344, 1st Floor <br />
+69120 Heidelberg, Germany
+
 
 {%
   include button.html
   type="email"
-  link="mathias.munschauer@med.uni-frankfurt.de"
+  link="mathias.munschauer@uni-heidelberg.de"
   icon="fa-solid fa-envelope"
   text="Email Mathias"
   tooltip="Email"
@@ -25,8 +25,8 @@ Theodor-Stern-Kai 7 <br />
 
 {%
   include figure.html
-  image = "images/institute.png"
+  image = "images/institute.jpg"
   caption = ""
-  link = "images/institute.png"
+  link = "images/institute.jpg"
   width = "1000px"
 %}
