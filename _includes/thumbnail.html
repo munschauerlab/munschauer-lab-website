@@ -1,0 +1,26 @@
+<!-- Clickable thumbnail that opens full-size image -->
+<figure class="thumbnail-figure {% if include.float %}thumbnail-float-{{ include.float }}{% endif %}">
+  <a 
+    href="{{ include.image | relative_url }}" 
+    class="thumbnail-link"
+    data-lightbox="{{ include.image }}"
+    aria-label="{{ include.caption | default: 'Click to enlarge' }}"
+  >
+    <img
+      src="{{ include.image | relative_url }}"
+      style="width: {{ include.width | default: '300px' }}; max-height: {{ include.height | default: 'auto' }}"
+      alt="{{ include.caption | default: 'thumbnail image' }}"
+      loading="lazy"
+      class="thumbnail-image"
+      {% include fallback.html %}
+    >
+    <span class="thumbnail-overlay">
+      <span class="thumbnail-icon">🔍</span>
+    </span>
+  </a>
+  {% if include.caption %}
+    <figcaption class="thumbnail-caption">
+      {{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}
+    </figcaption>
+  {% endif %}
+</figure>
