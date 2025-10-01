@@ -271,6 +271,10 @@
   
 
   
+    <link href="/_styles/thumbnail.css" rel="stylesheet">
+  
+
+  
     <link href="/_styles/tooltip.css" rel="stylesheet">
   
 
@@ -300,6 +304,8 @@
   <script src="/_scripts/search.js"></script>
 
   <script src="/_scripts/site-search.js"></script>
+
+  <script src="/_scripts/thumbnail.js"></script>
 
   <script src="/_scripts/tooltip.js"></script>
 
@@ -555,6 +561,13 @@ With SHIFTR you can identify proteins directly bound to a specific region within
   >
 -->
 </footer>
+
+    <!-- Lightbox overlay for thumbnail images -->
+<div id="lightbox-overlay" class="lightbox-overlay">
+  <span class="lightbox-close">×</span>
+  <img class="lightbox-content" id="lightbox-img" alt="Enlarged image">
+  <div id="lightbox-caption"></div>
+</div>
 
   </body>
 </html>

@@ -271,6 +271,10 @@
   
 
   
+    <link href="/_styles/thumbnail.css" rel="stylesheet">
+  
+
+  
     <link href="/_styles/tooltip.css" rel="stylesheet">
   
 
@@ -300,6 +304,8 @@
   <script src="/_scripts/search.js"></script>
 
   <script src="/_scripts/site-search.js"></script>
+
+  <script src="/_scripts/thumbnail.js"></script>
 
   <script src="/_scripts/tooltip.js"></script>
 
@@ -425,6 +431,22 @@
 -->
 
 
+<!-- Clickable thumbnail that opens full-size image -->
+<figure class="thumbnail-figure thumbnail-float-right">
+  <a href="/images/posts/PostDoc_Bioinformatics.jpg" class="thumbnail-link" data-lightbox="images/posts/PostDoc_Bioinformatics.jpg" aria-label="Click to enlarge">
+    <img src="/images/posts/PostDoc_Bioinformatics.jpg" style="width: 100px; max-height: auto" alt="thumbnail image" loading="lazy" class="thumbnail-image" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+    <span class="thumbnail-overlay">
+      <span class="thumbnail-icon">🔍</span>
+    </span>
+  </a>
+  
+    <figcaption class="thumbnail-caption">
+      
+
+    </figcaption>
+  
+</figure>
+
 <p>The Munschauer Lab at the Centre for Integrative Infectious Disease Research (CIID) is seeking a highly motivated postdoctoral scientist to carry out a collaborative research project at the intersection of computational biology and systems virology.</p>
   </section>
 
@@ -549,6 +571,13 @@
   >
 -->
 </footer>
+
+    <!-- Lightbox overlay for thumbnail images -->
+<div id="lightbox-overlay" class="lightbox-overlay">
+  <span class="lightbox-close">×</span>
+  <img class="lightbox-content" id="lightbox-img" alt="Enlarged image">
+  <div id="lightbox-caption"></div>
+</div>
 
   </body>
 </html>
