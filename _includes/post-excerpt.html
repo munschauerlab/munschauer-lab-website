@@ -9,7 +9,7 @@
   {% assign title = post.title %}
   {% assign ext_link = post.external_link %}
 
-  <strong> {{ title }} </strong> 
+  <strong> {{ title }} </strong>
   
   {%
     include post-info.html
@@ -19,22 +19,17 @@
     tags=post.tags
   %}
 
-  {% assign excerpt = post.content
-    | default: ""
-    | regex_scan: "<!-- excerpt start -->(.*)<!-- excerpt end -->", true
-    | default: post.excerpt
-    | default: ""
-    | strip_html
-  %}
   {% assign search = post.content
     | strip_html 
     | strip_newlines
     | regex_strip
   %}
-  <p data-search="{{ search }}">
-    {{ excerpt }}
+  
+  <div data-search="{{ search }}">
+    {{ post.content }}
+    
     {% if ext_link %}
-      <a href="{{ ext_link }}">Read more</a>
+      <p><a href="{{ ext_link }}">Read more</a></p>
     {% endif %}
-  </p>
+  </div>
 </div>
