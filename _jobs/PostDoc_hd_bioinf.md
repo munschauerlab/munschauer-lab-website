@@ -1,6 +1,6 @@
 ---
 title: Open Position - Postdoctoral fellow in Bioinformatics (m/w/d)
-last_modified_at: ""
+last_modified_at: "2025-09-23"
 external_link: https://karriere.klinikum.uni-heidelberg.de/index.php?ac=jobad&id=26142
 ---
 
